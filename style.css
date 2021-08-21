@@ -1,0 +1,30 @@
+.brand-nav{
+	margin-left: 40px;
+}
+
+
+.card-design{
+	
+	margin-right: 10px;
+}
+
+
+.row{
+	margin-left: 55px;
+}
+
+.card-img-top{
+	padding-top: 10px;
+}
+
+
+.hot-places-card{
+	width: 250px;
+	height: 200px;
+	background-color: transparent;
+	
+}
+
+#hot-locations{
+	height: 500px;
+}
